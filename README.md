@@ -12,6 +12,24 @@ In this repository, you'll find several demos of Mandarin voice style transfer. 
 ## Demos
 
 ### Demo 1: 
+Voice Content "董明珠并没有在意这些"\
+English Meaning "Mingzhu Dong(Chairwoman of Gree Electric) didn't care about this"
+
+#### Original Voice
+
+https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/978c748f-ee54-4d3f-81b0-ae39a27fe8cf
+
+#### Transferred Voice
+Voice of p256_male from VCTK dataset.
+
+https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/bd080940-5ae5-4b89-9773-7c3ed0844380
+
+Voice of p270_male from VCTK dataset.
+
+https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/39bf06c1-5f41-476d-87db-866ef008405c
+
+
+### Demo 2: 
 Voice Content "2016年中国会爆发房地产危机吗"\
 English Meaning "Will a real estate crisis break out in China in 2016?"
 
@@ -25,7 +43,7 @@ Voice from p256 male in VCTK dataset.
 https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/899f5169-71cc-4446-a039-3ca3b69af218
 
 
-### Demo 2: 
+### Demo 3: 
 Voice Content "两人难得叙旧"\
 English Meaning "The two are talking about the old days"
 
@@ -43,22 +61,7 @@ Voice of p228_female from VCTK dataset.
 https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/feb8ae74-49c5-4212-a9e8-1e86f67b2f65
 
 
-### Demo 3: 
-Voice Content "董明珠并没有在意这些"\
-English Meaning "Mingzhu Dong(Chairwoman of Gree Electric) didn't care about this"
 
-#### Original Voice
-
-https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/978c748f-ee54-4d3f-81b0-ae39a27fe8cf
-
-#### Transferred Voice
-Voice of p256_male from VCTK dataset.
-
-https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/bd080940-5ae5-4b89-9773-7c3ed0844380
-
-Voice of p270_male from VCTK dataset.
-
-https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/39bf06c1-5f41-476d-87db-866ef008405c
 
 ## How to Use
 
