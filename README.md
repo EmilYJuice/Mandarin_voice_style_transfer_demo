@@ -9,6 +9,12 @@ In this repository, you'll find several demos of Mandarin voice style transfer. 
 **Mandarian voice dataset:** [Aishell](https://www.openslr.org/33/)\
 **English voice dataset:** [VCTK](https://huggingface.co/datasets/vctk)
 
+
+## How to Use
+
+To listen to the voice demos, **unmute** first and simply click on the play button of the embedded audio player under each section.
+
+
 ## Demos
 
 ### Demo 1: 
@@ -60,10 +66,4 @@ Voice of p228_female from VCTK dataset.
 
 https://github.com/EmilYJuice/Mandarin_voice_style_transfer_demo/assets/117955103/feb8ae74-49c5-4212-a9e8-1e86f67b2f65
 
-
-
-
-## How to Use
-
-To listen to the voice demos, simply click on the play button of the embedded audio player under each section.
 
