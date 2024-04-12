@@ -6,6 +6,9 @@ This repository demonstrates the Mandarin demo of CS679 voice style transfer pro
 
 In this repository, you'll find several demos of Mandarin voice style transfer. Each demo includes the original voice file with one or more style-transferred versions of the same voice content. Wave files of all demos can be found in the [audio folder](audio/).
 
+**Mandarian voice dataset:** [Aishell](https://www.openslr.org/33/)\
+**English voice dataset:** [VCTK](https://huggingface.co/datasets/vctk)
+
 ## Demos
 
 ### Demo 1: 
